@@ -21,20 +21,24 @@ Decrypting the audio file and text data
 3. By updating and deep research we can encrypt the text in movie songs etc.
 4. Not only text we can also save images in audio signals and can be seen in  audi spectrogram
 ## Workflow
-![](/pictures/workflow.jpg)
+![workflow](https://github.com/manoj1749/Audio-Steganography-MATLAB/assets/83648898/f615d913-7073-4dde-8c3d-ae57edba1319)
+
 
 ## Output :
 ### Steganography.m : 
 Output of encrypted and decrypted file in sender side view
-![](/pictures/steganography.jpg)
+![steganography](https://github.com/manoj1749/Audio-Steganography-MATLAB/assets/83648898/57956e0f-a5a4-41ad-a1f7-9aeb75614746)
 
 ### Audio signal and spectrogram :
-![](/pictures/audiosig.jpg)
+![audiosig](https://github.com/manoj1749/Audio-Steganography-MATLAB/assets/83648898/13771d79-2b77-423d-8a48-0cd3dbcb27cc)
+
 ### Verify.m:
 Output after decrypting the audio signal in receiver side view :
-![](/pictures/verifycode.jpg)
+![verifycode](https://github.com/manoj1749/Audio-Steganography-MATLAB/assets/83648898/de1000a3-9a9e-4db6-8889-ac88d6861e63)
+
 If we tried to decrypt without the right process the out text will looks like this
-![](/pictures/text.jpg)
+![text](https://github.com/manoj1749/Audio-Steganography-MATLAB/assets/83648898/beb47374-27b5-4234-a3d1-f69f4640d191)
+
 
 ## Code Explanation
 
